@@ -7,15 +7,22 @@
 
 ---
 
-## 1. 最初に1回だけやること
+## 1. 最初に1回だけやること（初期設定）
 
-1. このテンプレートの **Use this template → Create a new repository** から、自分のリポジトリを作る。
-   - Owner：`Kyutech-Algorithms-Group`
-   - Repository name：`progress-<自分のGitHubアカウント名>`（例：`progress-taro-kyutech`）
-   - 公開範囲：**Private**
-2. `tasks.md` の冒頭に、氏名とGitHubアカウント名を書いてコミットする。
-3. 先生に、自分のGitHubアカウント名とリポジトリのURLを伝える（先生がNotionの「2026年度メンバー」に登録します）。
-4. 使うAIで、このリポジトリを読めるようにする（Claude や ChatGPT の GitHub 連携を有効にする）。
+初期設定は、AIに `SETUP.md` を読ませると順番に案内してくれます。AIに次のように頼んでください。
+
+```
+Kyutech-Algorithms-Group/progress-template の SETUP.md を読んで、それに従って初期設定を手伝ってください。
+```
+
+AIがテンプレートを読めないときは、`SETUP.md` の中身をコピーしてAIに貼り付けてから頼んでください。
+
+AIは次のことを案内します。
+
+1. 自分のリポジトリを作る（Kyutech-Algorithms-Group に `progress-<自分のGitHubアカウント名>`、**Private**）
+2. AIから自分のリポジトリを使えるようにする（Claude や ChatGPT の GitHub 連携）
+3. `tasks.md` に氏名・GitHubアカウントと、いまの課題を登録する
+4. 先生への連絡文を作る（先生がNotionの「2026年度メンバー」に登録すると、毎日の転記が始まります）
 
 ---
 
@@ -80,7 +87,7 @@ Kyutech-Algorithms-Group/progress-<アカウント名> の AI_MANUAL.md を読�
 
 ## 6. 注意すること
 
-- `README.md` と `AI_MANUAL.md` は書き換えない。
+- `README.md`、`AI_MANUAL.md`、`SETUP.md` は書き換えない。
 - 課題の「停滞」は先生がNotionで付けます。`tasks.md` には書かない。
 - ほかの学生のリポジトリは、見てかまいませんが書き換えない。
 - 2週間以上報告がないと、週報で「要フォロー」になります。

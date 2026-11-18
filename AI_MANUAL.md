@@ -212,7 +212,7 @@ mistake: false          # 登録ミスのときだけ true
 
 ## 10. 守ること
 
-- 書き込んでよいのは `reports/` の報告ファイルと `tasks.md` だけ。`README.md` と `AI_MANUAL.md` は変更しない。
+- 書き込んでよいのは `reports/` の報告ファイルと `tasks.md` だけ。`README.md`、`AI_MANUAL.md`、`SETUP.md` は変更しない。
 - ほかの学生のリポジトリには書き込まない。
 - 報告ファイルや `tasks.md` の行を削除しない。
 - Issue を閉じない（教員のClaudeが閉じる）。
