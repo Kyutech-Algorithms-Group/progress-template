@@ -12,10 +12,11 @@
 初期設定は、AIに `SETUP.md` を読ませると順番に案内してくれます。AIに次のように頼んでください。
 
 ```
-Kyutech-Algorithms-Group/progress-template の SETUP.md を読んで、それに従って初期設定を手伝ってください。
+次のURLの SETUP.md を読んで、それに従って研究進捗リポジトリの初期設定を手伝ってください。
+https://github.com/Kyutech-Algorithms-Group/progress-template/blob/main/SETUP.md
 ```
 
-AIがテンプレートを読めないときは、`SETUP.md` の中身をコピーしてAIに貼り付けてから頼んでください。
+AIが「URLを開けない」「読めない」と答えたときは、ブラウザで上のURLを開き、ファイルの右上のコピーボタン（Copy raw file）で中身をコピーして、上の依頼文と一緒にAIに貼り付けてください。
 
 AIは次のことを案内します。
 
