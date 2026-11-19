@@ -18,9 +18,6 @@
 3. 使うAIと使い方
    - Claude（claude.ai のチャット）／Claude Code
    - ChatGPT（チャット）／Codex
-4. 研究室のGitHub組織 **Kyutech-Algorithms-Group** に参加しているか（招待メールを承認したか）
-
-組織に参加していなければ、ここで止めて「周りに相談してください」と伝える。
 
 ---
 
