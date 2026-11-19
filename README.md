@@ -22,7 +22,6 @@ AIは次のことを案内します。
 1. 自分のリポジトリを作る（Kyutech-Algorithms-Group に `progress-<自分のGitHubアカウント名>`、**Private**）
 2. AIから自分のリポジトリを使えるようにする（Claude や ChatGPT の GitHub 連携）
 3. `tasks.md` に氏名・GitHubアカウントと、いまの課題を登録する
-4. 先生への連絡文を作る（先生がNotionの「2026年度メンバー」に登録すると、毎日の転記が始まります）
 
 ---
 
